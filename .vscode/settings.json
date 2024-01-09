@@ -1,0 +1,22 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "thieves_joins",
+            "connectString": "postgres://cgbzelqa:sel8CTh7U3pE0hyhqxdkmursmXCYiD_R@suleiman.db.elephantsql.com/cgbzelqa"
+        },
+        {
+            "previewLimit": 50,
+            "server": "li2283-18.members.linode.com",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "thieves_db",
+            "group": "test_db",
+            "database": "test_db",
+            "username": "postgres",
+            "password": "CodingTemple4L.."
+        }
+    ]
+}
